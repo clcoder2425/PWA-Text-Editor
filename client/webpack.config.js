@@ -20,7 +20,7 @@ module.exports = () => {
     plugins: [  // Webpack plugin that generates our html file and injects our bundles. 
     new HtmlWebpackPlugin({
       template: './index.html',
-      title: 'Contact Cards'
+      title: 'J.A.T.E'
     }),
    
     // Injects our custom service worker
