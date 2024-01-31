@@ -37,9 +37,8 @@ WHEN I register a service worker
 THEN I should have my static assets pre cached upon loading along with subsequent pages and static assets
 WHEN I deploy to Render
 THEN I should have proper build scripts for a webpack application`
-## Table of Contents (Optional)
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
+## Table of Contents 
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -62,7 +61,10 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ![appPreview2](./images/PWAScreenshotOutside_browser.JPG)
 
+### Deployed Application link: https://pwa-texteditor-9xno.onrender.com
+
 ## Technologies
+
 ### Frontend:
 
 - HTML5
@@ -77,6 +79,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 - Service Workers
 - Manifest file
+
 ## Skills improve
 - Configuring webpack
 - Deploying to render
